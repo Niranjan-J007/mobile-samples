@@ -13,7 +13,7 @@ using Android.Views;
 
 using Tasky.BL;
 using Android.Util;
-
+  
 namespace Tasky.Droid.Screens {
 	//TODO: implement proper lifecycle methods
 	[Activity (Label = "Task Details")]			
